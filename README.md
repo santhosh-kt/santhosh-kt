@@ -24,6 +24,9 @@ My second github account: https://github.com/SK851831/
 
 ---
 <h3> My Github repos </h3>
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kt&repo=dellemc.enterprise_sonic&theme=vue">
+</p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kt&repo=sonic-buildimage&theme=vue">
 </p>
