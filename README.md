@@ -1,7 +1,7 @@
 <h1 align="center"><b>Santhosh Kumar 💻</b></h1>
 <h3 align="center">Network Dev Engineer, Web Full Stack Developer, Web Designer, Android App Developer.</h3>
 
-- *Software Engineer* - **Dell EMC** since 2017!
+- *Software Senior Engineer* - **Dell EMC** since 2017!
 - Former *Software Development Intern* - **Komparify.com**
 - The things I value the most are imagination and innovation.
 - Lucky to be coder!
